@@ -1,0 +1,1 @@
+streamlit==1.34.0/npandas==2.2.2/nmatplotlib==3.8.4/nplotly==5.22.0/nseaborn==0.13.2/nnumpy==1.26.4/nopenpyxl==4.2.0/n
